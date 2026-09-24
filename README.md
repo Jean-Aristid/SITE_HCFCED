@@ -1,6 +1,6 @@
 # Site du Haut Conseil — HCFCED
 
-Site autonome de l’association : présentation, missions, événements et demande d’adhésion. La boutique est un autre site, accessible par un lien externe.
+Site autonome de l’association : présentation, missions, événements et demande d’adhésion. Ce site ne contient aucun lien vers la boutique.
 
 - Site : https://jean-aristid.github.io/SITE_HCFCED/
 - Dépôt : https://github.com/Jean-Aristid/SITE_HCFCED
@@ -14,6 +14,9 @@ Site autonome de l’association : présentation, missions, événements et dema
 | Apparence de l’accueil | `assets/css/main.css` |
 | Apparence de l’adhésion | `assets/css/adhesion.css` |
 | Menu de navigation | `assets/js/main.js` |
+| Bannière des membres | `assets/images/membres_haut_conseil.jpeg` |
+| Logo | `assets/images/logo_hcfced.jpg` |
+| Affichage du logo et de la bannière | `assets/css/identity.css` |
 | Lien du Google Form | `assets/js/config.js` |
 | Activation du bouton d’adhésion | `assets/js/adhesion.js` |
 | Esquisse du formulaire | `docs/FORMULAIRE_ADHESION.md` |
@@ -38,7 +41,7 @@ Le dépôt de ce dossier est relié à `SITE_HCFCED`. Un push sur `main` déclen
 
 Dans **Settings → Pages**, sélectionner **GitHub Actions**. Aucun code de la boutique ni document interne n’est publié dans le site associatif.
 
-Pour changer de domaine, actualiser les liens externes vers la boutique dans `index.html` et `adhesion.html` et le lien de retour présent dans l’autre projet.
+Le site est indépendant : son déploiement et ses ressources ne dépendent d’aucun autre projet.
 
 ## État de la démonstration
 

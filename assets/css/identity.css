@@ -1,0 +1,5 @@
+.members-banner{background:#f4f6ea}
+.members-banner img{display:block;width:100%;max-width:1600px;height:auto;margin:0 auto}
+.site-logo{display:block;width:76px;height:76px;object-fit:contain;flex-shrink:0;background:#fff;border-radius:6px}
+.home-link{display:inline-flex;align-items:center;gap:16px;text-decoration:none}
+@media(max-width:620px){.site-logo{width:60px;height:60px}}

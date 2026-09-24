@@ -22,8 +22,6 @@ Ce document est un brouillon à recopier dans Google Forms après validation du 
 | Présentation de votre activité | Paragraphe | Oui |
 | Site Internet ou réseau professionnel | Réponse courte | Non |
 | Vos attentes : réseau / accompagnement / formations / événements / visibilité / autre | Cases à cocher | Oui |
-| Souhaitez-vous présenter votre activité dans l’espace boutiques ? Oui / Non / À discuter | Choix multiple | Oui |
-| Lien de votre boutique actuelle, si vous en avez une | Réponse courte | Non |
 | Vos motivations ou questions | Paragraphe | Non |
 
 ## Informations à fournir par l’association avant ouverture

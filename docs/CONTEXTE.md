@@ -2,7 +2,7 @@
 
 Le Haut Conseil des Femmes Cheffes d’Entreprise de la Diaspora est présenté par le porteur du projet comme une association. Ce site lui est exclusivement consacré : présentation, missions, événements, contact et adhésion via un Google Form externe.
 
-La boutique du Haut Conseil constitue un **second site**, dans un dossier et un dépôt indépendants. Un lien permet de la consulter, sans intégrer son catalogue au site associatif.
+La boutique du Haut Conseil constitue un **second site**, dans un dossier et un dépôt indépendants. Aucun lien ni parcours de navigation ne relie les deux sites.
 
 ## Origine des contenus
 
