@@ -14,7 +14,7 @@ Site autonome de l’association : présentation, missions, événements et dema
 | Apparence de l’accueil | `assets/css/main.css` |
 | Apparence de l’adhésion | `assets/css/adhesion.css` |
 | Menu de navigation | `assets/js/main.js` |
-| Bannière des membres | `assets/images/membres_haut_conseil.jpeg` |
+| Bannière des membres | `assets/images/membres_haut_conseil-1.jpeg` |
 | Logo | `assets/images/logo_hcfced.jpg` |
 | Affichage du logo et de la bannière | `assets/css/identity.css` |
 | Lien du Google Form | `assets/js/config.js` |
