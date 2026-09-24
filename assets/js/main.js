@@ -1,0 +1,2 @@
+const menu=document.querySelector('.menu'),links=document.querySelector('.links');
+    menu.addEventListener('click',()=>{const open=links.style.display==='flex';links.style.display=open?'none':'flex';links.style.position='absolute';links.style.top='82px';links.style.left='14px';links.style.right='14px';links.style.zIndex='10';links.style.flexDirection='column';links.style.background='white';links.style.padding='24px';links.style.borderRadius='18px';links.style.boxShadow='0 20px 50px rgba(57,15,34,.18)';menu.setAttribute('aria-expanded',String(!open))});

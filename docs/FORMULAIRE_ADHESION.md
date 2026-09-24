@@ -40,7 +40,7 @@ Ce document est un brouillon à recopier dans Google Forms après validation du 
 3. Ne pas rendre les réponses ou leur feuille de calcul publiques.
 4. Tester l’accès dans une fenêtre privée, notamment si l’on souhaite permettre une réponse sans compte Google.
 5. Prévoir le message : « Votre demande a été transmise. L’équipe du Haut Conseil vous contactera pour la suite. »
-6. Copier le lien public du formulaire dans `adhesionFormUrl`, dans `site/assets/config.js`.
+6. Copier le lien public du formulaire dans `adhesionFormUrl`, dans `assets/js/config.js`.
 7. Tester le bouton « Accéder au formulaire d’adhésion » et l’envoi d’une réponse de test avec l’équipe.
 
 Le site ne stocke pas les réponses. Ne pas ajouter de données de candidates ou de réponses de formulaire dans GitHub.

@@ -1,4 +1,4 @@
-name: Publier la démonstration HCFCED
+name: Publier le site du Haut Conseil
 
 on:
   push:
@@ -22,14 +22,17 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - uses: actions/checkout@v6
-      - name: Vérifier les fichiers et liens locaux
-        run: python3 scripts/check_site.py
       - name: Vérifier les interactions
-        run: node scripts/check_ui.cjs
+        run: node scripts/check.cjs
+      - name: Préparer les fichiers publics
+        run: |
+          mkdir _public
+          cp *.html _public/
+          cp -R assets _public/assets
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v4
         with:
-          path: site
+          path: _public
       - name: Publier
         id: deployment
         uses: actions/deploy-pages@v4
