@@ -21,4 +21,4 @@ Le contenu indexé présente une organisation accompagnant et valorisant les ent
 - Compte Google responsable du formulaire et texte d’information sur les réponses.
 - Mentions légales et informations de confidentialité.
 
-La bannière de démonstration signale le caractère provisoire du contenu. L’adresse de contact initiale non confirmée a été retirée.
+Le bandeau de démonstration a été retiré à la demande du porteur du projet. Les contenus listés ci-dessus restent à valider. L’adresse de contact initiale non confirmée a été retirée.
